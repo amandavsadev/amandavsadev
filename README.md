@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/amandavsadev">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=amandavsadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandavsadev&theme=tokyonight"/>
+  <img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandavsadev&theme=tokyonight"/>
     
   </div>
 <div style="display: inline_block"><br>
@@ -11,7 +11,7 @@
   <img align="center" alt="Amanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Amanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img align="right" alt="Amanda-pic" height="170" style="border-radius:50px;" src="https://i.picasion.com/pic92/6778bfd852fd0552c3e2835ab981c83d.gif"> 
+  <img align="right" alt="Amanda-pic" height="160" style="border-radius:50px;" src="https://i.picasion.com/pic92/6778bfd852fd0552c3e2835ab981c83d.gif"> 
   
 ##
   
