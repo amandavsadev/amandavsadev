@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! I'm Amanda Amorim 💟 </h1>
 
-<img align= "center" width="100%" src="https://raw.githubusercontent.com/amandavsadev/amandavsadev/main/Purple%20Flowers%20Macro%204k%20Wallpapers%20_%20hdqwalls_com.jpeg" alt="backgroung">
+<img align= "center" width="100%" src="https://raw.githubusercontent.com/amandavsadev/amandavsadev/main/Combination%20of%20Purple.copy.jpeg" alt="backgroung">
 
 <div align="center">
   <a href="https://github.com/amandavsadev">
