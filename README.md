@@ -1,5 +1,6 @@
 <h1 align="center">Hello World! I'm Amanda Amorim 💟 </h1>
-<img align= "center" height="100%" src="https://raw.githubusercontent.com/amandavsadev/amandavsadev/main/github.jpeg" alt="backgroung">
+
+<img align= "center" width="20%" src="https://raw.githubusercontent.com/amandavsadev/amandavsadev/main/Combination%20of%20Purple.jpeg" alt="backgroung">
 
 <div align="center">
   <a href="https://github.com/amandavsadev">
