@@ -8,7 +8,6 @@
     
  ##
     
-<h3 align="left"> Learning 🌱 </h3> 
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Amanda-C" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
