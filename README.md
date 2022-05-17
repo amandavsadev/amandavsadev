@@ -1,11 +1,10 @@
 <h1 align="center">Hello World! I'm Amanda Amorim 💟 </h1>
-
 <img align= "center" width="100%" src="https://raw.githubusercontent.com/amandavsadev/amandavsadev/main/Combination%20of%20Purple.copy.jpeg" alt="backgroung">
 
 <div align="center">
   <a href="https://github.com/amandavsadev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandavsadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandavsadev&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amandavsadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="47.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilaine-as&layout=compact&langs_count=7&theme=tokyonight"/>
     
  ##
     
