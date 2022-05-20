@@ -18,7 +18,7 @@
   <img align="center" alt="Amanda-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Amanda-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img align="right" alt="Amanda-Pic" height="160" style="border-radius:50px;" src="https://picrew.me/share?cd=S5OMfr2btK">
+  <img align="right" alt="Amanda-Pic" height="160" style="border-radius:50px;" src="gif-amanda.png">
   </div>
   
 ##
