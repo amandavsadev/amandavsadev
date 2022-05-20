@@ -30,3 +30,5 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank">
   <a href = "https://replit.com/@AmandaAmorim2" target="_blank"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" target="_blank">  
 </div>
+  
+![Snake animation](https://github.com/amandavsadev/amandavsadev/blob/output/github-contribution-grid-snake.svg)
