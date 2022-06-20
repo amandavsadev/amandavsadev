@@ -1,11 +1,16 @@
 <h1 align="center">Hello World! I'm Amanda Amorim ʚĭɞ <br> (programming beginner) </h1>
-<img align= "center" width="100%" src="https://raw.githubusercontent.com/amandavsadev/amandavsadev/main/Combination%20of%20Purple.copy.jpeg" alt="backgroung">
+<!-- <img align= "center" width="100%" src="https://raw.githubusercontent.com/amandavsadev/amandavsadev/main/Combination%20of%20Purple.copy.jpeg" alt="backgroung"> -->
 
 <div align="center">
   
-  <a href="https://github.com/amandavsadev">
-  <img width="435" src="https://github-readme-stats.vercel.app/api?username=amandavsadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="368x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandavsadev&layout=compact&langs_count=7&theme=tokyonight"/>
+  
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandavsadev&theme=tokyonight"/> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=amandavsadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandavsadev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=amandavsadev&theme=tokyonight&hide_border=true"/>
+
+  
+<!--  <a href="https://github.com/amandavsadev">
+ <img width="435" src="https://github-readme-stats.vercel.app/api?username=amandavsadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="368x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandavsadev&layout=compact&langs_count=7&theme=tokyonight"/> -->
     
  ##
     
@@ -31,3 +36,4 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank">
   <a href = "https://replit.com/@AmandaAmorim2" target="_blank"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" target="_blank">  
 </div>
+  
