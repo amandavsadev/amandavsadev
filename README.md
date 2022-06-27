@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! I'm Amanda Amorim ʚĭɞ <br> (programming beginner) </h1>
+<h1 align="center">Hello, World! I'm Amanda Amorim ʚĭɞ <br> (programming beginner) </h1>
 <!-- <img align= "center" width="100%" src="https://raw.githubusercontent.com/amandavsadev/amandavsadev/main/Combination%20of%20Purple.copy.jpeg" alt="backgroung"> -->
 
 <div align="center">
