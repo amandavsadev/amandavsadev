@@ -24,7 +24,7 @@
   <img align="center" alt="Amanda-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Amanda-ReactNative" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
-  <img align="right" alt="Amanda-Pic" height="160" style="border-radius:50px;" src="gif-amanda.png">
+  <img align="right" alt="Amanda-Pic" height="170" style="border-radius:50px;" src="picrew-amanda.png">
   </div>
   
 ##
