@@ -27,6 +27,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.instagram.com/amandavsamorim/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"></a>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=amandavsadev&color=blue" alt="Profile views" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=amandavsadev&color=blueviolet" alt="Profile views" /> </p>
 </div>
   
