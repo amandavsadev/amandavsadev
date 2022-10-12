@@ -1,4 +1,4 @@
-<h1 align="center">Hello, World! I'm Amanda Amorim ʚĭɞ <br> (programming beginner) </h1>
+<h1 align="center">Hello, World! <br> I'm Amanda Amorim ʚĭɞ</h1>
 
 <div align="center">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandavsadev&theme=tokyonight"/> 
