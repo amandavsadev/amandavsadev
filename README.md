@@ -13,7 +13,7 @@
   <img align="center" alt="Amanda-Js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Amanda-Figma" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Amanda-git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
-  <img align="right" alt="Amanda-Pic" height="170" src="https://gifdb.com/images/thumbnail/pixel-art-steam-workshop-room-taeqq40zcd7aose3.gif">
+  <img align="right" alt="Amanda-Pic" height="170" src="amanda.gif">
   </div>
   
 ##
