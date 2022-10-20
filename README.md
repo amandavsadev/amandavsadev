@@ -25,6 +25,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.instagram.com/amandavsamorim/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://drive.google.com/file/d/1cyg978EvZhDYiS29kgT01hscP7zF49GQ/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Curriculo-blueviolet?style=for-the-badge"></a>
+  <a href="https://amandavsadev.github.io/mini-portfolio/" target="_blank"><img src="https://img.shields.io/badge/portfólio-CC6699?style=for-the-badge&logo=About.me&logoColor=white"></a>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=amandavsadev&color=blueviolet" alt="Profile views" /> </p>
 </div>
   
