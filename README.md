@@ -2,7 +2,9 @@
 
 <div align="center">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandavsadev&theme=tokyonight"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=amandavsadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandavsadev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=amandavsadev&theme=tokyonight&hide_border=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=amandavsadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandavsadev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=amandavsadev&theme=tokyonight&hide_border=true"/>
 
  ##
 </div>
@@ -29,3 +31,4 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=amandavsadev&color=blueviolet" alt="Profile views"/> <img src="https://img.shields.io/github/followers/amandavsadev.svg?style=social&label=Follow&maxAge=2592000"></p>
 </div>
   
+  ![Snake animation](https://github.com/amandavsadev/amandavsadev/blob/output/github-contribution-grid-snake.svg)
