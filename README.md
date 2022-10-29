@@ -28,4 +28,3 @@
   <a href="https://amandavsadev.github.io/mini-portfolio/" target="_blank"><img src="https://img.shields.io/badge/portfólio-CC6699?style=for-the-badge&logo=About.me&logoColor=white"></a>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=amandavsadev&color=blueviolet" alt="Profile views"/></p>
 </div>
-  
