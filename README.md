@@ -14,7 +14,7 @@
   <img align="center" alt="Amanda-Figma" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Amanda-Figma" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Amanda-git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
-  <img align="right" alt="Amanda-Pic" height="170" src="amanda.gif">
+  <img align="right" alt="Amanda-Pic" height="170" src="https://www.seekpng.com/png/full/109-1095120_art-ghost-by-slhqueenbee-pixel-art-ghost.png">
 </div>
   
 ##
