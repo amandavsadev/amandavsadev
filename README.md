@@ -6,7 +6,10 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Behance-A995DA?style=for-the-badge&logo=behance&logoColor=white"></a>
 <a href="https://drive.google.com/file/d/1IeWE0sKfysKd4X0DniYMuRoGDqVb6naX/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Currículo-A995DA?style=for-the-badge&logo=About.me&logoColor=white"></a>
 <a href = "#"><img src="https://img.shields.io/badge/Figma_community-A995DA?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/amandaamorimdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-A995DA?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href="https://www.linkedin.com/in/amandaamorimdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-A995DA?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandavsadev&theme=tokyonight"/> 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amandavsadev&color=A995DA" alt="Profile views"/></p>
 
 
 
