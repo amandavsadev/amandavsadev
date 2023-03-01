@@ -3,9 +3,9 @@
 - ⚡ Front-end e UX/UI Designer
 - 🌱 Desenvolvo em HTML, CSS, JavaScript e ReactJs
 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Behance-B484C1?style=for-the-badge&logo=behance&logoColor=white"></a>
 <a href="https://drive.google.com/file/d/1IeWE0sKfysKd4X0DniYMuRoGDqVb6naX/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Currículo-blue?style=for-the-badge&logo=About.me&logoColor=white"></a>
-<a href = "#"><img src="https://img.shields.io/badge/Figma_community-blue?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
+<a href = "#"><img src="https://img.shields.io/badge/Figma_community-B484C1?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/amandaamorimdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
 
