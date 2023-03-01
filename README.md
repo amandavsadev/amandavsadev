@@ -1,4 +1,4 @@
-# Hello World! I'm Amanda Amorim ʚĭɞ
+## Hello World! I'm Amanda Amorim ʚĭɞ
 - 🔭 Atualmente cursando Sistemas de Informação na UNESA
 - ⚡ Front-end e UX/UI Designer
 - 🌱 Desenvolvo em HTML, CSS, JavaScript e ReactJs
