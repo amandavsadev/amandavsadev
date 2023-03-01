@@ -3,11 +3,10 @@
 - ⚡ Front-end e UX/UI Designer
 - 🌱 Desenvolvo em HTML, CSS, JavaScript e ReactJs
 
-<a href="https://www.instagram.com/amandavsamorim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://drive.google.com/file/d/1IeWE0sKfysKd4X0DniYMuRoGDqVb6naX/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Currículo-purple?style=for-the-badge"></a>
-<a href = "mailto:amandavsadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
+<a href="https://drive.google.com/file/d/1IeWE0sKfysKd4X0DniYMuRoGDqVb6naX/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Currículo-blue?style=for-the-badge&logo=About.me&logoColor=white"></a>
+<a href = "#"><img src="https://img.shields.io/badge/Figma_community-blue?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/amandaamorimdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-
 
 
 
