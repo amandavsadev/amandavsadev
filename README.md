@@ -2,6 +2,8 @@
 - 🔭 Atualmente cursando Sistemas de Informação na UNESA
 - ⚡ Front-end e UX/UI Designer
 - 🌱 Desenvolvo em HTML, CSS, JavaScript e ReactJs
+- 📚 Estudando ReactJs e PHP
+- 🚀 Bootstrap e SASS
 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Behance-A995DA?style=for-the-badge&logo=behance&logoColor=white"></a>
 <a href="https://drive.google.com/file/d/1IeWE0sKfysKd4X0DniYMuRoGDqVb6naX/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Currículo-A995DA?style=for-the-badge&logo=About.me&logoColor=white"></a>
