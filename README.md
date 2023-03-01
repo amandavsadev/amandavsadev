@@ -13,6 +13,7 @@
   <img align="center" alt="Amanda-Js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Amanda-Figma" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Amanda-Figma" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+ <img align="center" alt="Amanda-Figma" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Amanda-git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
   <img align="right" alt="Amanda-Pic" height="170" src="https://tr.rbxcdn.com/30fc638f6285bdfe639403a54ddbff03/420/420/Image/Png">
 </div>
