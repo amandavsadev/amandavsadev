@@ -10,7 +10,7 @@
 <a href = "#"><img src="https://img.shields.io/badge/Figma_community-bf91f3?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/amandaamorimdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-bf91f3?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandavsadev&theme=tokyonight"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=amandavsadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandavsadev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=amandavsadev&theme=tokyonight&hide_border=true">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=amandavsadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandavsadev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amandavsadev&color=bf91f3" alt="Profile views"/></p>
 
 
