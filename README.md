@@ -1,5 +1,6 @@
 ## Hello World 👋 I'm Amanda Amorim ʚĭɞ
-- 🔭 Atualmente cursando Sistemas de Informação na UNESA
+- 🔭 Cursando Sistemas de Informação na UNESA
+- 🔭 Cursando Análise e Desenvolvimento de Sistemas na FICR
 - ⚡ Front-end e UX/UI Designer
 - 🌱 Desenvolvo em HTML, CSS e JavaScript
 - 📚 Estudando ReactJs e PHP
