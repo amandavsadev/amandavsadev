@@ -6,7 +6,7 @@
 - 🚀 Bootstrap e SASS
 
 <a href="https://www.behance.net/amandavsamorim" target="_blank"><img src="https://img.shields.io/badge/-Behance-A995DA?style=for-the-badge&logo=behance&logoColor=white"></a>
-<a href="https://drive.google.com/file/d/1ZgKvWb83EiJNKmXTAX0RIo1oxFgt3fXp/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Currículo-bf91f3?style=for-the-badge&logo=About.me&logoColor=white"></a>
+<a href="https://drive.google.com/file/d/1SdoHyVHIJg9050ZXbDp4w02GIHPf0DIl/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Currículo-bf91f3?style=for-the-badge&logo=About.me&logoColor=white"></a>
 <a href="https://www.figma.com/@amandavsamorim"><img src="https://img.shields.io/badge/Figma_community-bf91f3?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/amandavsamorim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-bf91f3?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandavsadev&theme=tokyonight"/> 
