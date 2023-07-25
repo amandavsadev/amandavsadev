@@ -2,7 +2,7 @@
 - 🔭 Atualmente cursando Sistemas de Informação na UNESA e ADS na FICR
 - ⚡ Front-end e UX/UI Designer
 - 🌱 Desenvolvo em HTML, CSS e JavaScript
-- 📚 Estudando ReactJs e PHP
+- 📚 Estudando Wordpress e PHP
 - 🚀 Bootstrap e SASS
 
 <a href="https://www.behance.net/amandavsamorim" target="_blank"><img src="https://img.shields.io/badge/-Behance-A995DA?style=for-the-badge&logo=behance&logoColor=white"></a>
