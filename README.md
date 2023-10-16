@@ -1,6 +1,6 @@
 ## Hello World 👋 I'm Amanda Amorim ʚĭɞ
 - 🔭 Atualmente cursando Sistemas de Informação na UNESA e ADS na FICR
-- 💼 Estagiária na SMS Recife - GGTI
+- 💼 Estagiária como Analista de Sistemas na Prefeitura do Recife
 - ⚡ Front-end e UX/UI Designer
 - 🌱 Desenvolvo em HTML, CSS e JavaScript
 - 📚 Estudando e PHP
