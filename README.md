@@ -1,10 +1,8 @@
 ## Hello World 👋 I'm Amanda Amorim ʚĭɞ
-- 🔭 Atualmente cursando Sistemas de Informação na UNESA e ADS na FICR
+- 🔭 Atualmente cursando Sistemas de Informação na UNESA
 - 💼 Estagiária como Analista de Sistemas na Prefeitura do Recife
-- ⚡ Front-end e UX/UI Designer
-- 🌱 Desenvolvo em HTML, CSS e JavaScript
-- 📚 Estudando e PHP
-- 🚀 Bootstrap, SASS e Wordpress
+- ⚡ UX/UI Designer | Front-end | Dados
+- 💻 Figma, Wordpress, Looker Studio
   
 <a href="https://www.behance.net/amandavsamorim" target="_blank"><img src="https://img.shields.io/badge/-Behance-A995DA?style=for-the-badge&logo=behance&logoColor=white"></a>
 <a href="https://drive.google.com/file/d/1SdoHyVHIJg9050ZXbDp4w02GIHPf0DIl/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Currículo-bf91f3?style=for-the-badge&logo=About.me&logoColor=white"></a>
